@@ -6,7 +6,7 @@
   <link href="http://mika-7.github.io/atom.xml" rel="self"/>
   
   <link href="http://mika-7.github.io/"/>
-  <updated>2021-11-30T11:00:59.341Z</updated>
+  <updated>2021-12-22T05:13:40.372Z</updated>
   <id>http://mika-7.github.io/</id>
   
   <author>
@@ -15,6 +15,23 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Javascript 学习记录（一）</title>
+    <link href="http://mika-7.github.io/2021/12/22/Javascript-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+    <id>http://mika-7.github.io/2021/12/22/Javascript-%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95%EF%BC%88%E4%B8%80%EF%BC%89/</id>
+    <published>2021-12-22T04:47:38.000Z</published>
+    <updated>2021-12-22T05:13:40.372Z</updated>
+    
+    <content type="html"><![CDATA[<p>&emsp;&emsp;</p><span id="more"></span><ul><li>闭包<br>内部函数使用外部函数内的变量，函数</li></ul>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&amp;emsp;&amp;emsp;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Git命令快速指北</title>
